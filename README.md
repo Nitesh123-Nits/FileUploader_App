@@ -1,4 +1,4 @@
-# 📦 FilwUploader – Full Stack Project (F1_F)
+# 📦 File Uploader – Full Stack Project (F1_F)
 <!-- Featue 1 -->
 This is a **simplified Dropbox clone** built with:
 
