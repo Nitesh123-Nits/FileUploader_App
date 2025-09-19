@@ -3,5 +3,6 @@ Added line one
  Fun
 
  Added change in test1
+Add text in branch 2
 Changed in test1 branch
 added test in branch test2
